@@ -11,3 +11,9 @@ Where 'w' is to move forward, 's' is to move back/decrease speed.
 'a' is used to turn right, and 'd' is used to turn right. 
 
 Will update soon, and make it a pid controlled car. 
+
+### Demo:
+
+___
+
+![](Images/car_demo.gif)
